@@ -8,6 +8,19 @@ In your project's `build.gradle` file add the following line to the `dependencie
 
 	implementation 'com.hmt.android:applogger:1.0.0'
 
+Now add this in root level `settings.gradle` or root level `build.gradle` (old gradle version) file:
+
+```gradle
+repositories {
+   maven {
+       url = "https://maven.pkg.github.com/hmtriit/AppLogger"
+       credentials {
+           username = GITHUB_USER
+           password = GITHUB_TOKEN
+       }
+   }
+}
+```
 
 Usage
 =================
