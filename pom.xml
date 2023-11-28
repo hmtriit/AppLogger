@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.hmt.android<</groupId>
-    <artifactId>applogger</artifactId>
-    <version>1.0.2</version>
-    <name>applogger</name>
+    <artifactId>applogger-sdk</artifactId>
+    <version>1.0.1</version>
+    <name>applogger-sdk</name>
     <packaging>jar</packaging>
     <build>
         <plugins>
