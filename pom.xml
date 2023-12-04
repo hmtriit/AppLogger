@@ -6,7 +6,7 @@
     <artifactId>applogger-sdk</artifactId>
     <version>1.0.1</version>
     <name>applogger-sdk</name>
-    <packaging>jar</packaging>
+    <packaging>aar</packaging>
     <build>
         <plugins>
         <plugin>
