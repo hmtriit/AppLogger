@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.hmt.android</groupId>
     <artifactId>applogger-sdk</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.5</version>
     <name>applogger-sdk</name>
     <packaging>aar</packaging>
     <build>
